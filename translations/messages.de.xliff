@@ -100,7 +100,7 @@
             </trans-unit>     
             <trans-unit id="_form.body">            
                 <source>Body</source>
-                <target>Body</target>
+                <target>Botschaft</target>
             </trans-unit>
    
 <!--|| GENERIC ||-->

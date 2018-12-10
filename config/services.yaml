@@ -6,6 +6,8 @@
 parameters:
     locale: 'en'
     app.locale: 'en|de|lt'
+    # Contact email address
+    app.emails.contact_email: contact@example.com
 
 services:
     app.locale_listener:

@@ -88,19 +88,19 @@
 <!--|| FORM ||-->
             <trans-unit id="_form.name">            
                 <source>Name</source>
-                <target>Name</target>
+                <target>Vardas</target>
             </trans-unit>
             <trans-unit id="_form.email">            
                 <source>Email</source>
-                <target>Email</target>
+                <target>El paštas</target>
             </trans-unit>
             <trans-unit id="_form.subject">            
                 <source>Subject</source>
-                <target>Betreff</target>
+                <target>Tema</target>
             </trans-unit>     
             <trans-unit id="_form.body">            
                 <source>Body</source>
-                <target>Body</target>
+                <target>Žinutė</target>
             </trans-unit>
    
 <!--|| GENERIC ||-->
