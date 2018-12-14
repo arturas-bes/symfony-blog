@@ -116,7 +116,79 @@
                 <source>Captcha</source>
                 <target>Captcha</target>
             </trans-unit>
-              
+              <trans-unit id="_username">            
+                <source>Username</source>
+                <target>Naudotojo vardas</target>
+            </trans-unit>
+            <trans-unit id="_username.canonical">            
+                <source>Username canonical</source>
+                <target>Vartotojo vardas kanoniškas</target>
+            </trans-unit>
+            <trans-unit id="_email.canonical">            
+                <source>Email canonical</source>
+                <target>El paštas kanoniškas</target>
+            </trans-unit>
+            <trans-unit id="_enabled">            
+                <source>Enabled</source>
+                <target>Įjungtas</target>
+            </trans-unit>
+            <trans-unit id="_salt">            
+                <source>Salt</source>
+                <target>Druska</target>
+            </trans-unit>
+            <trans-unit id="_password">            
+                <source>Password</source>
+                <target>Slaptažodis</target>
+            </trans-unit>
+            <trans-unit id="_last.login">            
+                <source>Last login</source>
+                <target>Paskutinis prisijungimas</target>
+            </trans-unit>
+            <trans-unit id="_confirmation.token">            
+                <source>Confirmation token</source>
+                <target>Patvirtinimo ženkliukas</target>
+            </trans-unit>
+            <trans-unit id="_password.requested.at">            
+                <source>Password requested at</source>
+                <target>Slaptažodzio prašyta</target>
+            </trans-unit>
+            <trans-unit id="_roles">            
+                <source>Roles</source>
+                <target>Vartotojo rolės</target>
+            </trans-unit>
+            <trans-unit id="_0">            
+                <source>0</source>
+                <target>0</target>
+            </trans-unit>
+<!--|| LOGIN (FOSU) ||-->
+            <trans-unit id="_login.login">
+              <source>login.login</source>
+              <target>Prisijngti</target>
+            </trans-unit>
+            <trans-unit id="_login.logout">
+              <source>login.logout</source>
+              <target>Atsijungti</target>
+            </trans-unit>
+            <trans-unit id="_login.register">
+              <source>login.register</source>
+              <target>Registruotis</target>
+            </trans-unit>
+            <trans-unit id="_login.title">
+              <source>login.title</source>
+              <target>Prisijungti prie paskyros</target>
+            </trans-unit>
+            <trans-unit id="_login.register.title">
+              <source>login.register.title</source>
+              <target>Nauja paskyra</target>
+            </trans-unit>
+            <trans-unit id="_login.forgot.password">
+              <source>login.forgot.password</source>
+              <target>Pamiršote slaptažodį?</target>
+            </trans-unit>
+            <trans-unit id="_login.submit">
+              <source>login.submit</source>
+              <target>Vygdyti</target>
+            </trans-unit>             
         </body>
     </file>
 </xliff>
